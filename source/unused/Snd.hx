@@ -1,6 +1,7 @@
 import faxe.Faxe;
 
 import SndTV;
+using StringTools;
 
 //praise delahee, i'll figure out what this shit means later!
 
